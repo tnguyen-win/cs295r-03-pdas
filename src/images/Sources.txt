@@ -1,0 +1,11 @@
+[Alexa]
+
+https://en.m.wikipedia.org/wiki/File:Amazon_Alexa_App_Logo.png
+
+[Cortana]
+
+https://en.wikipedia.org/wiki/Cortana_(virtual_assistant)#/media/File:Microsoft_Cortana_transparent.svg
+
+[Siri]
+
+https://en.wikipedia.org/wiki/Siri#/media/File:Siri_new_logo.png
